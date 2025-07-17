@@ -6,6 +6,7 @@ using System;
 using System.Drawing;
 using System.Threading;
 using System.Windows.Forms;
+using System.Configuration;
 
 namespace LoginSystem
 {
@@ -18,14 +19,23 @@ namespace LoginSystem
         private Label lblStatus, lblTitle;
         private LinkLabel linkForgot;
 
-       
-        private const string GoogleClientId = "1069861707558-qpc2cqu53l6kh23h3jbovnmpi13fmib8.apps.googleusercontent.com";
-        private const string GoogleClientSecret = "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";
+
+        private readonly string _googleClientId;
+        private readonly string _googleClientSecret;
 
         public LoginForm()
         {
             InitializeUI();
             dbHelper = new DatabaseHelper();
+
+            _googleClientId = ConfigurationManager.AppSettings["GoogleClientId"];
+            _googleClientSecret = ConfigurationManager.AppSettings["GoogleClientSecret"];
+
+            if (string.IsNullOrEmpty(_googleClientId) || string.IsNullOrEmpty(_googleClientSecret))
+            {
+                MessageBox.Show("Google authentication is not configured properly", "Error",
+                              MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
         }
 
         private void InitializeUI()
@@ -41,7 +51,7 @@ namespace LoginSystem
 
             lblTitle = new Label
             {
-                Text = "Welcome Back!",
+                Text = "Hi, Welcome!",
                 Font = new Font("Segoe UI", 18, FontStyle.Bold),
                 ForeColor = Color.FromArgb(0, 120, 215),
                 AutoSize = true,
@@ -194,8 +204,8 @@ namespace LoginSystem
             {
                 var clientSecrets = new ClientSecrets
                 {
-                    ClientId = GoogleClientId,
-                    ClientSecret = GoogleClientSecret,
+                    ClientId = _googleClientId,
+                    ClientSecret = _googleClientSecret
                 };
 
                 var credential = await GoogleWebAuthorizationBroker.AuthorizeAsync(
