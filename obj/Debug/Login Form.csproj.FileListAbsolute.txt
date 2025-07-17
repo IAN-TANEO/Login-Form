@@ -1,0 +1,37 @@
+C:\Users\Admin\source\repos\MYFIRSTPROJECT\Login Form\bin\Debug\Login Form.exe.config
+C:\Users\Admin\source\repos\MYFIRSTPROJECT\Login Form\bin\Debug\Login Form.exe
+C:\Users\Admin\source\repos\MYFIRSTPROJECT\Login Form\bin\Debug\Login Form.pdb
+C:\Users\Admin\source\repos\MYFIRSTPROJECT\Login Form\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\MYFIRSTPROJECT\Login Form\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\MYFIRSTPROJECT\Login Form\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Admin\source\repos\MYFIRSTPROJECT\Login Form\bin\Debug\Google.Apis.Core.dll
+C:\Users\Admin\source\repos\MYFIRSTPROJECT\Login Form\bin\Debug\Google.Apis.dll
+C:\Users\Admin\source\repos\MYFIRSTPROJECT\Login Form\bin\Debug\Google.Apis.Oauth2.v2.dll
+C:\Users\Admin\source\repos\MYFIRSTPROJECT\Login Form\bin\Debug\Google.Apis.PeopleService.v1.dll
+C:\Users\Admin\source\repos\MYFIRSTPROJECT\Login Form\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\MYFIRSTPROJECT\Login Form\bin\Debug\System.Data.SQLite.dll
+C:\Users\Admin\source\repos\MYFIRSTPROJECT\Login Form\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Admin\source\repos\MYFIRSTPROJECT\Login Form\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Admin\source\repos\MYFIRSTPROJECT\Login Form\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\MYFIRSTPROJECT\Login Form\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\MYFIRSTPROJECT\Login Form\bin\Debug\Google.Apis.pdb
+C:\Users\Admin\source\repos\MYFIRSTPROJECT\Login Form\bin\Debug\Google.Apis.xml
+C:\Users\Admin\source\repos\MYFIRSTPROJECT\Login Form\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Admin\source\repos\MYFIRSTPROJECT\Login Form\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Admin\source\repos\MYFIRSTPROJECT\Login Form\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Admin\source\repos\MYFIRSTPROJECT\Login Form\bin\Debug\Google.Apis.Core.xml
+C:\Users\Admin\source\repos\MYFIRSTPROJECT\Login Form\bin\Debug\Google.Apis.Oauth2.v2.pdb
+C:\Users\Admin\source\repos\MYFIRSTPROJECT\Login Form\bin\Debug\Google.Apis.Oauth2.v2.xml
+C:\Users\Admin\source\repos\MYFIRSTPROJECT\Login Form\bin\Debug\Google.Apis.PeopleService.v1.pdb
+C:\Users\Admin\source\repos\MYFIRSTPROJECT\Login Form\bin\Debug\Google.Apis.PeopleService.v1.xml
+C:\Users\Admin\source\repos\MYFIRSTPROJECT\Login Form\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\source\repos\MYFIRSTPROJECT\Login Form\bin\Debug\System.Data.SQLite.xml
+C:\Users\Admin\source\repos\MYFIRSTPROJECT\Login Form\obj\Debug\Login Form.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\MYFIRSTPROJECT\Login Form\obj\Debug\LoginSystem.LoginForm.resources
+C:\Users\Admin\source\repos\MYFIRSTPROJECT\Login Form\obj\Debug\Login_Form.Properties.Resources.resources
+C:\Users\Admin\source\repos\MYFIRSTPROJECT\Login Form\obj\Debug\Login Form.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\MYFIRSTPROJECT\Login Form\obj\Debug\Login Form.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MYFIRSTPROJECT\Login Form\obj\Debug\Login Form.csproj.Up2Date
+C:\Users\Admin\source\repos\MYFIRSTPROJECT\Login Form\obj\Debug\Login Form.exe
+C:\Users\Admin\source\repos\MYFIRSTPROJECT\Login Form\obj\Debug\Login Form.pdb
+C:\Users\Admin\source\repos\MYFIRSTPROJECT\Login Form\obj\Debug\Login Form.exe.config
